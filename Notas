@@ -3,3 +3,7 @@ head: El usuario no lo puede ver
 body: El cuerpo del archivo
 
 h1->h6 títulos y subtítulos
+
+hr: salto con linea
+
+br: salto
